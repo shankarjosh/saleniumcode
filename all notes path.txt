@@ -1,0 +1,42 @@
+/html/head/form/input/id
+
+/html/head/form/input/id
+
+/html/head/form/button/id
+
+//input[@id="name"]
+//input[@id="email"]
+//button[@id="submit"]
+
+
+
+
+//input[@type="submit"]
+//input[@class="submit-button btn_action"]
+//input[@data-test="login-button"]
+//input[@id="login-button"]
+//input[@name="login-button"]
+//input[@value="login"]
+
+$x('input[@id='name']'[0])
+
+
+//li[@class="menu-item"]
+//li[@id="about_sidebar_link"]
+//li[@class="bm
+
+a#about_sidebar_link
+a[href=
+li.menu-item > a#about_sidebar_link
+
+Assignment 3 x path
+
+
+
+//select[@id="licencetype"]
+//input[@id="fullname"]
+//input[@id="address"]
+//input[@id="age"]
+//input[@id="placeholder]
+
+form#licenseType
